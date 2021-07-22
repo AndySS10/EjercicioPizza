@@ -82,7 +82,7 @@
     align-items: center;
 }
 .cuerpo1{
-    background-image: url(/img/repartidor.jpg);
+    background-image: url(../img/repartidor.jpg);
     width: 490px;
     height: 350px;
     padding-top: 20px;
